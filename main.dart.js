@@ -60529,7 +60529,7 @@ O.iA.prototype={}
 O.PQ.prototype={
 a2W:function(a){var s=this.b
 if(s==null)s=H.d(H.x("_user"))
-return s.B(0,P.ah(["name",a.b,"turn",a.c,"firstDoseTaken",a.e,"secondDoseTaken",a.f],t.N,t.K)).aK(0,new O.PR(),t.y).kt(new O.PS())}}
+return s.B(0,P.ah(["name",a.b,"turn",a.c,"vacina",a.d,"firstDoseTaken",a.e,"secondDoseTaken",a.f],t.N,t.X)).aK(0,new O.PR(),t.y).kt(new O.PS())}}
 O.PR.prototype={
 $1:function(a){return!0},
 $S:431}
